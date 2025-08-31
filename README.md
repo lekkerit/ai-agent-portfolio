@@ -1,6 +1,8 @@
 # 🧠 Barry Ó Brien's AI Agent Portfolio
 
-Welcome to my collection of AI-powered tools designed to streamline workflows and boost productivity. As an Agile subject matter expert and Certified Scrum Master with 10+ years of experience, I've created these intelligent agents to solve real-world problems and help professionals work more efficiently.
+Welcome to my collection of AI-powered tools designed to streamline workflows and boost productivity. 
+20+ years of experience in IT solving business problems with software.
+I've created these intelligent agents to solve real-world problems and help professionals work more efficiently.
 
 ---
 
